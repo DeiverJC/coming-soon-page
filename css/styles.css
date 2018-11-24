@@ -5,7 +5,7 @@ body, html {
 }
 
 .bgimg {
-    background-image: url('../images/bg2.png');
+    background-image: url('../images/bg3.jpg');
     height: 100%;
     background-position: center;
     background-size: cover;
@@ -35,4 +35,11 @@ body, html {
 hr {
     margin: auto;
     width: 40%;
+}
+.link a {
+    text-decoration: none;
+    color: white;
+}
+.link a:hover {
+    color: #39c0dd;
 }
